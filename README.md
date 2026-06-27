@@ -1,5 +1,5 @@
 # XFS_Addons
-I'm RJ and I've been playing/creating board games since I first knew how to read. Ths is a repository of all of my custom characters for the Exceed Fighting System, also known as Guilty Gear Strive: The Board Game.
+I'm RJ and I've been playing/creating board games since I first knew how to read. Ths is a repository of all of my custom characters for the Exceed Fighting System, also known as Guilty Gear Strive: The Board Game. I do not own the rights to commercially create or distribute any of the copyrighted material present here.
 
 ## How to Use
 Please join [The Breakfast Club](https://discord.gg/4sSptGt6W9v) on Discord to access playable .jsons of these characters conveniently and easily (as well as so I can receive feedback for them)!
